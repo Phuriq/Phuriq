@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Phuriq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 🚀 About Phuriq
+I'm just a beginner developer 
+<h1 align="center"><img src="https://33.media.tumblr.com/2a2544f1f1d8799ef3c3ae083cc507dc/tumblr_no1hosvYxU1so18vqo1_1280.gif" width="550"></h1><br>
+<div align="center">  
 
-<!---
-Phuriq/Phuriq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
